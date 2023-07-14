@@ -1,4 +1,4 @@
-STUID = 22ww040000
+STUID = 00
 STUNAME = lijiaheng
 
 # DO NOT modify the following code!!!
