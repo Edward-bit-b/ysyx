@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 STUID = ysyx_2204000012112121212
+=======
+STUID = 00
+>>>>>>> pa0
 STUNAME = lijiaheng
 
 # DO NOT modify the following code!!!
